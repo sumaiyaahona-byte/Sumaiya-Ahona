@@ -22,6 +22,7 @@ My research interests center on [topic area], particularly
 - Python (pandas, statsmodels)
 - R / Stata
 - Time series forecasting
+- Panel data
 
 ## Contact
 **Email:** your_email@miners.utep.edu
