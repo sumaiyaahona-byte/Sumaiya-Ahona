@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Myself",
+    "section": "",
+    "text": "Early career"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Project",
+    "section": "",
+    "text": "I am a graduate student in Economics at UTEP, studying [your focus area]."
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Research Project",
+    "section": "Overview",
+    "text": "Overview\nI am developing a time series forecasting project on [working topic], as part of ECON-5371. A full description, methodology, and results will be posted here as the project develops. ## Status Proposal stage — details forthcoming."
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "Research Project",
+    "section": "CV",
+    "text": "CV\nDownload full CV (PDF) Education - M.S. Economics, The University of Texas at El Paso (expected 20XX) - B.A. Economics, [Institution] (20XX)\nExperience - [Role], [Organization], [Dates]"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Research Project",
+    "section": "Research interests",
+    "text": "Research interests\nMy research interests center on [topic area], particularly [specific question or method]."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Research Project",
+    "section": "Skills",
+    "text": "Skills\n\nPython (pandas, statsmodels)\nR / Stata\nTime series forecasting"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Research Project",
+    "section": "Contact",
+    "text": "Contact\nEmail: your_email@miners.utep.edu LinkedIn: linkedin.com/in/yourname · GitHub: github.com/yourusername"
+  }
+]
